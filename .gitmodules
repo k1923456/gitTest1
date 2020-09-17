@@ -1,6 +1,3 @@
 [submodule "gitTest2"]
 	path = gitTest2
 	url = C:/Users/santaiwang/github/gitTest2
-[submodule "fabric"]
-	path = fabric
-	url = https://github.com/hyperledger/fabric.git
